@@ -5,7 +5,7 @@ git clone https://github.com/edgarflores/THedgar.git
 
 cd THedgar
 
-php artisan update
+composer update
 
 duplicate env.example file to .env
 
