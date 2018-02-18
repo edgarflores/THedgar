@@ -3,9 +3,13 @@ THedgar
 
 git clone https://github.com/edgarflores/THedgar.git
 
-cd THedgar 
+cd THedgar
 
 php artisan update
+
+duplicate env.example file to .env
+
+php artisan key:generate
 
 php artisan serve
 
